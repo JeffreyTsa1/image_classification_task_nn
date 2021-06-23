@@ -1,2 +1,2 @@
-# nn_project
+# nn_task
 Neural Nets! 
